@@ -1,2 +1,2 @@
-# Cars-price-prediction
-predicting the price of car
+# Attorney claim
+wheather a person can claim the attorney or not
